@@ -16,7 +16,7 @@ Essas interfaces permitem que diferentes classes possam ser tratadas de maeira p
 
 ## Resultado do Projeto
 
-<img src="">
+<img src="https://github.com/ItaloRochaj/cineplus/blob/main/resultado-projeto.png">
 
 ## Autor:
 <table>
